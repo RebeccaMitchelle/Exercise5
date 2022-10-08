@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+}
+
+p,h1,h2{
+color: black;
+}
+
+.header {
+    background-color: blanchedalmond;
+    text-align: center;
+    padding: 20px;
+
+
+}
+img[
+    height : 100px;
+    width: 100px;
+    border-radius; 50%
+]
+
+.container {
+    text-align: center;
+    background-color: blanchedalmond;
+    margin left: 200px;
+    border-radius: 20px;
+    width: 500px;
+ 
+}
+
+.div{
+    background-color: blanchedalmond;
+}
+.Box {
+    margin: 40px;
+    padding: 50px;
+    box-shadow: 2px 5px 2px gray;
+    background-color:blanchedalmond;
+    text-align: center;
+    color:black;important;
+    border-radius: 5px;
+}
+
